@@ -15,12 +15,7 @@ mvn compile
 mvn test
 ```
 
-### **5. Clean project**
-```
-mvn clean
-```
-
-### **6. Generate Report**
+### **4. Generate Report**
 ```
 mvn jacoco:report
 ```
