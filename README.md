@@ -5,12 +5,12 @@
 java -cp "target/classes;lib/randoop-all-4.3.4.jar" randoop.main.Main gentests --testclass=Stack --junit-output-dir=test --junit-package-name=randoop
 ```
 
-### **2. Compile the main code**
+### **2. Compile The Main Code**
 ```
 mvn compile
 ```
 
-### **3. Command to run test cases**
+### **3. Run Test Cases**
 ```
 mvn test
 ```
