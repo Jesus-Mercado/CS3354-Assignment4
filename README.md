@@ -20,3 +20,7 @@ mvn test
 mvn jacoco:report
 ```
 
+### **5. View Report**
+```
+target/site/jacoco/index.html
+```
