@@ -4,7 +4,7 @@
  * Sat Nov 01 22:43:26 GMT 2025
  */
 
-package assignment4;
+package evosuite;
 
 import org.evosuite.runtime.annotation.EvoSuiteClassExclude;
 import org.junit.BeforeClass;
